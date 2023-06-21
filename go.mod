@@ -2,9 +2,9 @@ module github.com/shawwwn/gole
 
 go 1.20
 
-replace github.com/shawwwn/gole => github.com/assemblaj/gole v0.0.0
+replace github.com/shawwwn/gole => github.com/assemblaj/gole v0.0.2
 
-replace github.com/shawwwn/gole/s5 => github.com/assemblaj/gole/s5 v0.0.0
+replace github.com/shawwwn/gole/s5 => github.com/assemblaj/gole/s5 v0.0.2
 
 require (
 	github.com/templexxx/xorsimd v0.4.1
