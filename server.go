@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/shawwwn/gole/s5"
+	"github.com/assemblaj/gole/s5"
 	kcp "github.com/xtaci/kcp-go"
 	"github.com/xtaci/smux"
 )
